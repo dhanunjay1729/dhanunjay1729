@@ -69,5 +69,11 @@
 
 ## 🌐 Connect With Me
 
-💼 **[LinkedIn](https://www.linkedin.com/in/dhanunjaypanta)** <br>
-📫 **Email:** pantadhanunjay@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhanunjaypanta">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:pantadhanunjay@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+</p>
