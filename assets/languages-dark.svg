@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="214" viewBox="0 0 440 214" role="img" aria-labelledby="title desc">
-<title id="title">Languages in public repos</title><desc id="desc">Source bytes in owned public non-fork repositories; notebook files excluded. JavaScript: 70.5%; HTML: 10.0%; CSS: 8.9%; Python: 7.2%; EJS: 1.8%; Other: 1.5%</desc>
+<title id="title">Languages in public repos</title><desc id="desc">Source bytes in owned public non-fork repositories; notebook files excluded. JavaScript: 69.8%; HTML: 9.9%; CSS: 8.8%; Python: 8.3%; EJS: 1.8%; Other: 1.5%</desc>
 <rect x=".5" y=".5" width="439" height="213" rx="10" fill="#0d1117" stroke="#30363d"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" fill="#e6edf3">
 <text x="22" y="32" font-size="16" font-weight="600">Languages in public repos</text>
 <text x="22" y="55" font-size="11" fill="#9da7b3">Source bytes · Notebook files and forks excluded</text>
 <defs><clipPath id="bar"><rect x="22" y="69" width="396" height="9" rx="4"/></clipPath></defs>
-<rect x="22.0000" y="69" width="279.3421" height="9" fill="#d9b800" clip-path="url(#bar)"/>
-<rect x="301.3421" y="69" width="39.5146" height="9" fill="#e34c26" clip-path="url(#bar)"/>
-<rect x="340.8566" y="69" width="35.2504" height="9" fill="#7957d5" clip-path="url(#bar)"/>
-<rect x="376.1070" y="69" width="28.6325" height="9" fill="#3572a5" clip-path="url(#bar)"/>
-<rect x="404.7396" y="69" width="7.2804" height="9" fill="#7b9c24" clip-path="url(#bar)"/>
-<rect x="412.0200" y="69" width="5.9800" height="9" fill="#8b949e" clip-path="url(#bar)"/>
+<rect x="22.0000" y="69" width="276.2108" height="9" fill="#d9b800" clip-path="url(#bar)"/>
+<rect x="298.2108" y="69" width="39.0716" height="9" fill="#e34c26" clip-path="url(#bar)"/>
+<rect x="337.2825" y="69" width="34.8553" height="9" fill="#7957d5" clip-path="url(#bar)"/>
+<rect x="372.1377" y="69" width="32.7505" height="9" fill="#3572a5" clip-path="url(#bar)"/>
+<rect x="404.8882" y="69" width="7.1988" height="9" fill="#7b9c24" clip-path="url(#bar)"/>
+<rect x="412.0870" y="69" width="5.9130" height="9" fill="#8b949e" clip-path="url(#bar)"/>
 <circle cx="26" cy="100" r="4" fill="#d9b800"/>
 <text x="38" y="104" font-size="12">JavaScript</text>
-<text x="212" y="104" text-anchor="end" font-size="12" fill="#9da7b3">70.5%</text>
+<text x="212" y="104" text-anchor="end" font-size="12" fill="#9da7b3">69.8%</text>
 <circle cx="231" cy="100" r="4" fill="#e34c26"/>
 <text x="243" y="104" font-size="12">HTML</text>
-<text x="417" y="104" text-anchor="end" font-size="12" fill="#9da7b3">10.0%</text>
+<text x="417" y="104" text-anchor="end" font-size="12" fill="#9da7b3">9.9%</text>
 <circle cx="26" cy="126" r="4" fill="#7957d5"/>
 <text x="38" y="130" font-size="12">CSS</text>
-<text x="212" y="130" text-anchor="end" font-size="12" fill="#9da7b3">8.9%</text>
+<text x="212" y="130" text-anchor="end" font-size="12" fill="#9da7b3">8.8%</text>
 <circle cx="231" cy="126" r="4" fill="#3572a5"/>
 <text x="243" y="130" font-size="12">Python</text>
-<text x="417" y="130" text-anchor="end" font-size="12" fill="#9da7b3">7.2%</text>
+<text x="417" y="130" text-anchor="end" font-size="12" fill="#9da7b3">8.3%</text>
 <circle cx="26" cy="152" r="4" fill="#7b9c24"/>
 <text x="38" y="156" font-size="12">EJS</text>
 <text x="212" y="156" text-anchor="end" font-size="12" fill="#9da7b3">1.8%</text>
