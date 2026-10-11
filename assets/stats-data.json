@@ -1,0 +1,442 @@
+{
+  "language_bytes": {
+    "CSS": 81294,
+    "EJS": 16790,
+    "HTML": 91128,
+    "JavaScript": 644215,
+    "Jupyter Notebook": 4412295,
+    "Python": 66032,
+    "Shell": 152,
+    "TypeScript": 13639
+  },
+  "metrics": {
+    "authored_commits": 246,
+    "public_pull_requests": 8,
+    "public_repositories": 16,
+    "stars_received": 1
+  },
+  "repositories": [
+    {
+      "authored_commit_shas": [
+        "3293f38d8ae214557763261be50010b3bdfb5387",
+        "388f43ab460fc9430ce71f1514c0d58f32570daf",
+        "5fe30810abf3ef37fbd48f2c96dab2f66f7e7a6f",
+        "8954bbd55db7524e8ff85542c4944e0f3127eb7e",
+        "da2e3d1194b5995a0e2bb8064c7f64902575af59",
+        "e71212bcf486718f799b2b89195bf7c1c88307ae"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "CSS": 4632,
+        "HTML": 361,
+        "JavaScript": 26656,
+        "TypeScript": 2155
+      },
+      "name": "dhanunjay1729/ChefSpeak",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "054b4ba54e03cc33caae71d02484299a314095b7",
+        "06dd7ae03272105d9e24b1ac06a5f34fb2f022cf",
+        "0723fb7a9ca68e874bbd788014f77db0d8f8bf9f",
+        "07904f6b1f69927428b027f3f4b658bcb9c7274b",
+        "087dc27b9e083682bd213351b794651afaf21f8a",
+        "0b9c2bb9c25ddc1597a8753fb7dfc3bfdecbfbc1",
+        "1e033cbe123a1518b7ede3302556adf9a2238960",
+        "2061dc7c0ed29ed56a61080173a121fdea2882bb",
+        "217e4275092473164242cfc3a8a21993335e09ab",
+        "238d806b8d8fca5a54ad76ecea1c5794bd8dc6ce",
+        "243782512a2e368f7e9d7abb03b73461963dc5b5",
+        "2ed6d02759a87e6535306ba79ecf304082ec3bc4",
+        "30877b8556639df6d18ffbca35c210b6f3354351",
+        "3623cf0ed761cfbc8c250d14f12ff7ba4db1f57c",
+        "36bcff8405b6fb1d0525f8d9c456774d62e4e928",
+        "3ea7270e598730400921e1c86c7e1c9d475293da",
+        "418279dcefba4fcc46411380313ada41d4bbddbd",
+        "425372bc03612f06f8d32eb63b4848b2e48ce6ee",
+        "45dd5f73401f7af874efdb56454b1c7b85e357dc",
+        "47856b26a04c5e494c2d71d4f8e187fbb4318ef4",
+        "4d2826d671edd8fc0a560289e9f1f90dd67982da",
+        "504853bc599ddb95a77d26ef789fc61837ca1d3c",
+        "514de5bf502d34179f6f7682eb48b9331bba046e",
+        "5ac93e0bff8ba6e7257e55c5e9e23f16c3c989ca",
+        "5c57ba4a9903c55b7e3a4825542aaaaafcbd7a5f",
+        "68d78013c9f416fc776032f0cb52093740303475",
+        "6aa7e069050457704223286b3b2561b252757326",
+        "6bdc0d11a04220944fd07bd82054e6841c6c1f3b",
+        "6f38fa515f1e27b49c76645bcb6110f7d90ee395",
+        "724625049b9ac50b522eaf23655cfac1d6a66101",
+        "7488f816bbef2d922a9972a0ee665aaa07a47112",
+        "763e31bfd47082ff07c8b11e98570243e93a3648",
+        "769aae972fa8a49c2ae50a1a614e4368d9a54ce1",
+        "79dc7c45a80409129d0db98bf198a3670220955f",
+        "7b1e87e72754ccc17919337eac7412030e10e09b",
+        "7db7c414bb99f1d7588be900921b6c65902205a6",
+        "81417b8cde5efbc9ca1aad083a99fc515d9b6b4b",
+        "83a0164af573175354a373997cac1052c1822664",
+        "861ec323396c8f71bbedcdea045dca0b68a25e0b",
+        "8894f371dc8dcb2110e7b9181cbc6727f8853207",
+        "8b74cb53aba4daed83c1ce55e6dfb824c2fa6e35",
+        "8b8840b9d85d7818395ee1e3f7a77f34613b9b0e",
+        "8f117d61a56362c8888fc6c0cf11a9bb44ba9585",
+        "9090eb27c76f1663423c01ffa6343bf9a14a5e6a",
+        "94d1a6593791b94a1ff81b99adcc5fc722049e28",
+        "95d64c343094e08c165993e6b1afd6c095ac85b7",
+        "9c8a93a475ef1e97f83072b45d219adf3db229b2",
+        "9ce844b30226319a76e7086d793ae3ad156e4a1c",
+        "a01197d14068a67b2b394c5c79a6d8ff10ae08b5",
+        "a229ee229d653d873ea92877d4eab157b7ab9ed7",
+        "a24c7955064593f4caee6b730350f77774a61c5c",
+        "a5a6203831045aca2473cf3774429afbfbd76f33",
+        "a8d99425cd566d67c9f7b1e66424ef7fc2826e88",
+        "aa21f449e2c8276223afca111e45e2e4ff97aedc",
+        "aa50cf5a30c9a89db3c1cee5bad8efc80cb7fb24",
+        "ac72afcbd5c51816c011e2c24eeb6cee07214c16",
+        "ada9b87b8d6b8aa3918419ea2f7590573c2f7556",
+        "ae96d4aa3e2850381d84d3daad042929670f8a60",
+        "aec34aa6fdca5034521ec10d72c7fa6a2eb5567c",
+        "aeec3a4337bfcdd699d45dca21b49fc002ca9a4f",
+        "b1ecf6295a43ebd649fbea8dc8cb743ffbbe1ffa",
+        "b27b341e25e7510c1f049b04b875b10610ef9312",
+        "b82885aa4a89412b945b5d0ddb32c1c99b08e80a",
+        "ba94c7cacd4defd40a55915ec1e031414dd4843b",
+        "bb41b94ff765a88b258b9adee16343cc43246fd8",
+        "be137a51c441836b17a2adaf46f4d559b9b3fb2f",
+        "c1fbb22a8f1b6c8135877d53b1bfea28a2a9d7af",
+        "c27a2c87a7260ccedc5a1acb8a22c01d5fd574b4",
+        "c5bb5bb6b1ef6a5d9862366746e52535f5522ed1",
+        "c66001e4a270f50447a7b6bd9e83a80c9c7be500",
+        "c746b214b245fa6590b712e55d7d637b4ff320c0",
+        "c8e16339fab53b315d43f3906638d38495c68524",
+        "cb720a417b777a66b3180c16dd375052690096c4",
+        "cd1619e3a1ce0cc66171bfa08ccf62ffec2ed9a8",
+        "cdbbc019769eb3b66ecc7b0007b2f4977ce96678",
+        "ce9ca59dff54c721a6e8ace702543996b1800866",
+        "cee87601ac26d6e70f1babe420cb23ca2640fb4d",
+        "cff6698ff632473667bc400ca0aebd64ce6bd894",
+        "d362bafb7bbaa4b4b8bb00c35467bf65e7b9a384",
+        "d5028ce2d91567d055741726f4e682a2e2634b9c",
+        "d62210d85a8f3d0d24322d10a508b058c16990ed",
+        "d88c31b51b1630ac46c2434e421a457545653896",
+        "dbe29384ffbf03d4467a9d47391798d5a51e1315",
+        "dcd9b04321d66db8a21dd4e38271447ab7f1bf0d",
+        "e3c19d8927855a34d9eb9173eac07415088f68e5",
+        "e51da1cfded4dc95e6b91a4443e1197562d933a6",
+        "e5538078fcb15300521ac32651643d5e514610a1",
+        "e753d55cd878de32cb8b97e835b76b21de32ac83",
+        "e7862cfb2bebbf39a7dc23ca6c8c975704f4682b",
+        "e7b93f7e8e8ab471f16f866638a5a6e82a939b48",
+        "e81570175b7314fd3314f6c3f680ca9dd4ddafcd",
+        "ef0539ec2449162e0028a220d0b27bb8c2b79e85",
+        "f06fd7225c0eb30a216e517bd4f72a8a333c7648",
+        "f78c7e2132fd88bdc5a24d974292ed95eeec78fc",
+        "f91ff2ad28d8ee43caf055277c08ee719418ca6b",
+        "f9b4fbae2d2b3a441de8f994e9fa3a6102e38bb0",
+        "fa2cdb654c2b66240363b0c94ba9f7cd6149016c",
+        "fb39b2291dd010e0262e7623888c3af83941fdc4"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "CSS": 4680,
+        "HTML": 543,
+        "JavaScript": 315549,
+        "TypeScript": 11484
+      },
+      "name": "dhanunjay1729/chefspeak-2.0",
+      "stars": 1
+    },
+    {
+      "authored_commit_shas": [
+        "02df3883b103f9111bcb03f800e3dcf2f21477ea",
+        "13e44b53f315f7ec2a78e6e8f62ff41ef170952c",
+        "40e19a50c1ba9c17fda9017d6b4414c5c0b8f88f",
+        "a6f9b1906683320fda4ea576189dcb1b9012310a"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "Python": 25163,
+        "Shell": 152
+      },
+      "name": "dhanunjay1729/contest-reminder",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "f9376df1cbd852d6d75d74812512c9e67ad5eec9"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "Jupyter Notebook": 944715,
+        "Python": 37806
+      },
+      "name": "dhanunjay1729/Credit-Card-Fraud-Detection",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "dab3d80ae410704ee2abe4db2f02c499d0852bee"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "Jupyter Notebook": 3467580
+      },
+      "name": "dhanunjay1729/Deep-Learning",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [],
+      "fork": false,
+      "language_bytes": {},
+      "name": "dhanunjay1729/dhanunjay",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "57a11b439b8d9eb4633c0f2142f67e2ccac8f73c",
+        "5f3606f9c5b91f6357e41e6e6588959da7aa7f14",
+        "7d67ad287509621c82cc562f2d62d93c7908aca0",
+        "a0e16121f6567cc805b476bd36485cafd5445523",
+        "aeb429483dc7e860fb08fb0b177e0412e91fde4a",
+        "b4f3ffc68c4c718590394ea4f57393ad9bc7dd88",
+        "c4c37e11f5f46a35a39fdaaf13568fba588c6ea0",
+        "df53a3a1ef09c827ca77abceb605114e81cb83f8",
+        "f8ec8cb51c3549f71c58e67a6bc6a5eef05f81d6"
+      ],
+      "fork": false,
+      "language_bytes": {},
+      "name": "dhanunjay1729/dhanunjay1729",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "0d72779ad7da6c2e790ebb9d5fcf8e25c57c7e66",
+        "16faaf19938272b1af3f197ad7566bc90360166b",
+        "1b284cfae7c47e9ae5366d69bab21d106b6a16ee",
+        "1ce6cc215d2e6e8648ce166de20a0b325df470b5",
+        "25c7726ec2daa05eb4a7a5f9bab80e6b8a5c12e6",
+        "291197c011a2e8d569b1389ec5d70825c906d634",
+        "2a5d95db098ecfcb166a824b4602f6052a22de1e",
+        "310ff6b9f5c9bae3bf6cec3a1f99136c84a9e04f",
+        "4b73e1d73eec2d2e705d9a11c2ab7f812661e8c5",
+        "4c289e72134fbae8f0b3c388787b9c4b340c8f2d",
+        "4fd4427979e81e3fea5bc9c3e3e64e983326b6f9",
+        "5179e9fbe6b7dc008d4a47b8ae10b0a2f33a708f",
+        "66642168a1236314a0b386568c48b8883a1d02b6",
+        "6f104e8a7384bd5b970cffc7665a17bf1309a2c0",
+        "6f3824d4e083bf8824d5822790035853e7f484b9",
+        "704e82084be3b4e755b2d195ad52544588f256fc",
+        "85d8714202a8523c697b83c7e009d7c382e08e4a",
+        "8c979745d578426132f7411edd7fbe6c76dded8f",
+        "91d944c82db5d0e8342fdc6c817be38df89bd304",
+        "9427904f45e8d665ebb2c49836e158ce8327d49f",
+        "97c747c3c4e98718e3acc66394818f26d3e1fa65",
+        "9ea8bba56807df9971a0e075919c5c51afef568b",
+        "a796261542f6f09ed8e50de4714995ba0261d031",
+        "a89374d92fc7bef6e95c9f74876aeed7aa92a235",
+        "b57e8e185af8b838d64a3f3ab4f1920deb387b9f",
+        "be0457fedf48bff2cb7b6a1f1f4a03bd12468a1e",
+        "ca65663a90f017133aa5531973653d3ca738011b",
+        "cfc4e7cba77d8ea7487e22e7b5e41e9df3a02e2a",
+        "d0b8988c8c041f7a23499f68d4b3946c32102cca",
+        "d46749d4168f3675cf1d94bcd43c4b8534d6c5c6",
+        "ded1a1f30189c7cfc2b2116dcd20a80f9e60132a",
+        "e7a9e53feef3a25427211484f8e11a8bfd9f2daf",
+        "ebda1cf9947183279802add1f2059e5f3c06a2ab",
+        "f172ffd12717a835249cd4a6b8bda6065bc7b9fa",
+        "f98fd8e64e6425b21cc3c216b0fb0dd2b15c3a8b"
+      ],
+      "fork": true,
+      "language_bytes": {},
+      "name": "dhanunjay1729/Distributed-P2P-Ledger",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "13362042f3ead1994d9efbdeaf03f8630f3ce167",
+        "3a2090bcc7bf49d57b71408e553bfa954c0b3cfe",
+        "dafaaeb5e771463edca2f4e54b5e506b49ec7bc1"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "CSS": 9835,
+        "HTML": 34101,
+        "JavaScript": 1178
+      },
+      "name": "dhanunjay1729/Infinity_Inquiry",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "14994f6d9eba4401a5b1e52da39169ca153eca9d"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "CSS": 19566,
+        "HTML": 53858,
+        "JavaScript": 179
+      },
+      "name": "dhanunjay1729/Restaurant-Management",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "089e770d734a7bae0a53c68984977e8a341c7893",
+        "4f6903adc4039ccac4a1c5b857c414ed8deaf534",
+        "986767e2205a0a66ae6ba135a69724b5d1c10523"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "CSS": 1989,
+        "HTML": 703,
+        "JavaScript": 2309
+      },
+      "name": "dhanunjay1729/Rock_Paper_Scissors",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "034597d413b5e1e53676e1202cde116423aabae3",
+        "7f7359afbe4078d675c61f4015a94e6672ada819",
+        "c0ff891dcb318ed57e8546dcfad09a61312955c4"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "CSS": 889,
+        "HTML": 795,
+        "JavaScript": 3255
+      },
+      "name": "dhanunjay1729/Simon_Game",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "05fb89a3561187badcbb76b6bf4b676e2036ed10",
+        "14b01b38660d37b468e9030c1250697504b37af5",
+        "21a983fc0f53100e9e96cb7c5c87459b17136963",
+        "24d0383405ff1e7ef0bb62f619ae768147ffac0d",
+        "274fa91ba0a31875a1d9683e330c9400b0783269",
+        "2bb8fa79b5119812f2abbcc570fd85fdd5ef8da7",
+        "2d74c216809090956c7899d4bd8ae01ec0d0dcb1",
+        "303387446a8a62be46cf0e25a79e21b002d99bd0",
+        "3076674cff6128bfd2877674392e5bf38f55acb4",
+        "31689e6f26e30c6570af04462c5f5482a5692797",
+        "37b53de9aec586fc457446242c3fefad33a4e391",
+        "404d4e8dfa959daab47602acdaea883b256cbcaa",
+        "421b276e32d0d4a0400f36b97cf7aca2025b81cf",
+        "431c091298e87ca45110169e31f45f4b1de550bd",
+        "4416c0cc34127fe27cd411d509f704a5988e25c0",
+        "44216356c55d4ab573b6084e1e08be1dd980aad0",
+        "45ee3f7d0854062943a70e649dec0a6aaf7e2cae",
+        "45f58d628dd4a70100eab77d93ae711ccb21fbd1",
+        "4eb3c8bf34e49771edbfdfd26983cbb58ec4373e",
+        "518a3fb7ca5c99bf3c8badb41f85cb6ead10a21f",
+        "5967d6f150d6933590992815d4816aaec7b586f8",
+        "5c61e5d5c9a94d03146db4e9d58517b94c5e2c3a",
+        "5caae381ff0cb02eb8b122db4d03a0eac7f8f827",
+        "67b47153e06fd28080203e8ea75ed965ade4bca6",
+        "77e288ce512169fae0d4d922248aa49b98227f47",
+        "7fdc36276e7a54bb9094472fd1ecbe8950cc3bdc",
+        "84ee66e71609e0f30eecdfe0d35c7069aebc9289",
+        "94dfcc857d9dcf0f35fe1c1f743bd2dab01882b2",
+        "96384d486e83da8dbe04a8260a8b828823d39cae",
+        "9cf9203e0683ac5dae7ac6a868a95d5fd9e6eb44",
+        "aedef28e4b7fa6aca96371ec0dc7684e6f3ee5b4",
+        "b76cfb4df5b042808767bed3706f53bfdf0d747c",
+        "b94cf1bd69c74b55dd71f730ef72c5e7b4e256f0",
+        "bdaed176575747aad4c17212890f8887834e1732",
+        "c6998b32b0247c9792e01afea5db4634b20fe412",
+        "cb1bf25bea3ae1645417fa3e036df54de82dc211",
+        "cba62f3889b3916c3bcdfc4f90f22d8874a4033b",
+        "df5f114b3ac95f71f0680d290b3bc7d14371dd20",
+        "e0eaecf67a291014c72bfc0a3173a37bdc6c0765",
+        "e26a3db57f5d33b19f584f6272037a4194c02799",
+        "e829e79feb2a21c3c18ba1d3447e6a130d83f626",
+        "eeb7eaeeb789184340f8326954d92b564597064d",
+        "f04f199b44e883ccaf961bdd5264fbe135fd930f",
+        "f06cb61a03290ae1dfd9dc1b5f3771583f3e55ec",
+        "f0b772fbb476920fa9a79557c1c1191f44329dee",
+        "f1abfded69f766006b77ebaaba75cb2c0c49431a",
+        "f2e4b8cad57373bc4aa06c3303ca89891e5ea9a8",
+        "f6de0eefa4ac495d4d8bd29ef34d22051dda673f",
+        "f8252fcbb369a9a03b3a287e0d3da7ecd72963de",
+        "fb1c4552d88f2f2882792d0fcba64080b61a79b0"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "CSS": 3797,
+        "HTML": 767,
+        "JavaScript": 167844
+      },
+      "name": "dhanunjay1729/spaced-repetition-app",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "139e3341e39da46b7dac1db3213b4e9eedb5af0d",
+        "43c8303b2b4ad1e46141348bc2b96bdc69699064",
+        "6b6249afe02624964339fe6ae732e2bc7231b140",
+        "89d880cf7eea6265c9af925e6eb2f893c70d3f9c",
+        "8a70ec680bc65c0572da084a6f8925dcce18617f",
+        "a313705a9ce8d8e41155f963099d302e996457cd",
+        "b8d04aeb88f406dbabea2a0b860f2ab82b4c98ed",
+        "c811f714b8b4803c0de602b265fa9d683c4ef079",
+        "d4c4f5a7428d34d3e3e777fe7fa8414a7c962800",
+        "d94d8d43c33742789a2b3904c56fdaaa21ae454f"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "CSS": 21768,
+        "EJS": 16790,
+        "JavaScript": 27924
+      },
+      "name": "dhanunjay1729/Wanderlust",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "03d30df2e113b616ef1598c2cdc28b4cc726ced3",
+        "33bbe9d70b8bb81b49b0fb00012efe1b431bd76d",
+        "35ddcefd090d36322c8f1a1d1fc4f54baedabfb9",
+        "37b2ecfe81818e3554789f017c7da9c4b643f627",
+        "3e996f156fa3cd4b4f094d2cc42b88174aedb63a",
+        "42e9702c06b503f14d1677e496d1eccc5193880f",
+        "434fb4b18557ed29ece123c6d18097f69fb68540",
+        "47b0b74db7d67941423afcc01aecb7301ec81cf9",
+        "539c3991d8b3f21e2cadf96035084832e0a0ca23",
+        "64551fec36828d66449e491480e3a0a1f60a7a23",
+        "77c3ccb95d6ed1c296795b14c3f082a1dcd48112",
+        "85d37b6a1524108679ebf196498c96a51a441c9c",
+        "c4674e36844a3fc7083adb475cc943c6caa9bebd",
+        "e34aed483fa0f6ba7584f49686dbf6b020240988",
+        "f25aae6505eaaca695c6e9b306df7f51d5b7a27e",
+        "f8589cb9972f104d1421d46dbf23dbeb40275b2c",
+        "fb9174095617717a8a1524e3483829121dfa7d8c"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "CSS": 14138,
+        "JavaScript": 99321
+      },
+      "name": "dhanunjay1729/where-have-i-been",
+      "stars": 0
+    },
+    {
+      "authored_commit_shas": [
+        "3b464f3497fe70b8ddef9575c3271fd454b0d2ae",
+        "8579af5d198fd767ce112a6de3912f68266f35d1",
+        "bd97294c05bc0fc5bdf21d51e32eb7c92e2890d5",
+        "c61f78e828354bb77dcc1d0910def3fe77160f5b",
+        "c6680a062babee2c87cf1658a006d2c66ef39bdf"
+      ],
+      "fork": false,
+      "language_bytes": {
+        "Python": 3063
+      },
+      "name": "dhanunjay1729/wpm-calculator",
+      "stars": 0
+    }
+  ],
+  "updated_at": "2026-10-11",
+  "username": "dhanunjay1729"
+}
