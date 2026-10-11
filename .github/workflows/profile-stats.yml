@@ -24,15 +24,13 @@ jobs:
     steps:
       - name: Check out profile repository
         uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
-      - name: Generate cards from public GitHub data
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: Refresh original-style stats cards
         run: python3 scripts/update_stats.py --username dhanunjay1729
       - name: Commit refreshed cards
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/github-stats-*.svg assets/languages-*.svg assets/stats-data.json
+          git add assets/github-stats.svg assets/top-languages.svg
           if git diff --cached --quiet; then
             exit 0
           fi
