@@ -14,7 +14,7 @@ Hi, I’m Dhanunjay. I’m interested in software, AI integration, machine learn
 
 <p align="center">
   <img src="assets/github-stats.svg" alt="Dhanunjay's GitHub stats" width="48%">
-  <img src="assets/top-languages.svg" alt="Languages ranked by usage, including Jupyter Notebook" width="48%">
+  <img src="assets/top-languages.svg" alt="Most used languages by percentage, including Jupyter Notebook" width="48%">
 </p>
 
 ## Connect

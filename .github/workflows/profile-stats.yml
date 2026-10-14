@@ -2,12 +2,12 @@ name: Refresh profile stats
 
 on:
   schedule:
-    - cron: '17 1 * * *'
+    - cron: '17 */6 * * *'
   workflow_dispatch:
   push:
     branches: [main]
     paths:
-      - 'scripts/update_stats.py'
+      - 'scripts/validate_stats.py'
       - '.github/workflows/profile-stats.yml'
 
 permissions:
@@ -20,12 +20,30 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Check out profile repository
         uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
-      - name: Refresh original-style stats cards
-        run: python3 scripts/update_stats.py --username dhanunjay1729
+      - name: Generate stats directly from GitHub
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=dhanunjay1729&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=Dhanunjay%27s%20GitHub%20Stats&disable_animations=true
+          path: assets/github-stats.svg
+          token: ${{ github.token }}
+          core_version: '2.2.0'
+          fail_on_error: 'true'
+      - name: Generate language percentages directly from GitHub
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: username=dhanunjay1729&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450&disable_animations=true
+          path: assets/top-languages.svg
+          token: ${{ github.token }}
+          core_version: '2.2.0'
+          fail_on_error: 'true'
+      - name: Validate both cards before publishing
+        run: python3 scripts/validate_stats.py
       - name: Commit refreshed cards
         run: |
           git config user.name 'github-actions[bot]'
