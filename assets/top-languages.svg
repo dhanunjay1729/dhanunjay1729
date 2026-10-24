@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="378.67"
+          width="378.44"
           height="8"
           fill="#DA5B0B"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="378.67"
+          x="378.44"
           y="0"
-          width="11.53"
+          width="11.76"
           height="8"
           fill="#f1e05a"
         />
@@ -178,7 +178,7 @@
           data-testid="lang-progress"
           x="396.54999999999995"
           y="0"
-          width="11.72"
+          width="11.71"
           height="8"
           fill="#3178c6"
         />
@@ -186,9 +186,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="398.27"
+          x="398.25999999999993"
           y="0"
-          width="11.46"
+          width="11.45"
           height="8"
           fill="#e34c26"
         />
@@ -196,7 +196,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="399.72999999999996"
+          x="399.7099999999999"
           y="0"
           width="10.27"
           height="8"
@@ -206,7 +206,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="399.99999999999994"
+          x="399.9799999999999"
           y="0"
           width="10.01"
           height="8"
@@ -219,14 +219,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 94.67%
+        Jupyter Notebook 94.61%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 2.88%
+        JavaScript 2.94%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
